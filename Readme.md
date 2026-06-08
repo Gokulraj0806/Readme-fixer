@@ -4,9 +4,9 @@ This is the project which is used to fix the readme file which is more good look
 
 ## Features
 
-* Feature 1
-* Feature 2
-* Feature 3
+* This is more usefull to edit
+* this is will give the reliablity
+* this is more more good looking
 * Easy to use
 * Open Source
 
